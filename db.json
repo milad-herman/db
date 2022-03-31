@@ -1,0 +1,34 @@
+[
+    {
+      "userId": 1,
+      "barcode": 12345,
+      "partname": "قیچی",
+      "brand": "xxxx",
+      "gendate": "2022/01/01",
+      "exdate": "2022/01/02",
+      "buydate": "2022/01/03",
+      "usenum": 45,
+      "setname": "ست اورژانس",
+      "wash": "دستگاه",
+      "sterille": "پلاسما",
+      "packing": "پاکت",
+      "station": "شستشو",
+      "status": " سالم"
+    },
+    {
+      "userId": 1,
+      "barcode": 67890,
+      "partname": "تیغ",
+      "brand": "yyyy",
+      "gendate": "2022/01/04",
+      "exdate": "2022/01/05",
+      "buydate": "2022/01/06",
+      "usenum": 90,
+      "setname": "ست اتاق عمل",
+      "wash": "دستی",
+      "sterille": "پلاسما",
+      "packing": "کاغذ",
+      "station": "خروج از CSSD",
+      "status": "معیوب"
+    }
+]
